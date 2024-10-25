@@ -6,11 +6,7 @@
     <title>Bienvenida</title>
 </head>
 <body>
-    <?php
-    
-        include_once "./src/mensaje.php";
-    
-    ?>
+   <p>Hola mundo</p>
     
 </body>
 </html>
